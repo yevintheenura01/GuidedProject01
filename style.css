@@ -1,0 +1,42 @@
+body{
+    background-color: #e6f3ff;
+    padding: 12%;
+}
+.message{
+    color: blueviolet;
+    font-style: italic;
+}
+
+.cupCake{
+    width: 320px;
+    float: right;
+}
+
+.priceList{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 75px;
+}
+
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+
+th, td{
+    text-align: left;
+    padding: 7px;
+}
+
+.footer{
+    background-color: orange;
+    text-align: center;
+    font-size: 10px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 5px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+
+}
